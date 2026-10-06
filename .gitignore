@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+data/*.json
+data/uploads/*
+data/storage/private/*
+data/storage/templates/*
+!data/uploads/.gitkeep
+!data/storage/private/.gitkeep
+!data/storage/templates/.gitkeep
+test/cv-sample.pdf
+*.log
